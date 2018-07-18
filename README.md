@@ -1,3 +1,4 @@
 # hello-world
-the first repository
-newer to github and learning python.hope to progress every single day!
+a newer to github
+python beginner 
+hope to progress every single day!
